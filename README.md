@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vidhit 👋  
+🎓 Data Science @ UIUC | 💻 AI Engineer in the making  
 
-<!--
-**vidhit-dureja/vidhit-dureja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building applied AI systems — from predictive models in Python to intelligent iOS apps using Core ML.  
+My interests include Machine Learning, MLOps, and AI infrastructure.
 
-Here are some ideas to get you started:
+### 🔭 Featured Projects
+- 🧠 [Stock Sentiment Predictor](https://github.com/vidhit-dureja/Stock-Sentiment-Predictor)
+- 📱 [CallFilterPro](https://github.com/vidhit-dureja/CallFilterPro)
+- 💬 [FocusFlow](https://github.com/vidhit-dureja/FocusFlow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack
+Python • R • Swift • Core ML • PyTorch • scikit-learn • SQL • Docker • Git
+
+📫 Reach me: [LinkedIn](https://linkedin.com/in/vidhitdureja) | [Email](mailto:vidhit@illinois.edu)
