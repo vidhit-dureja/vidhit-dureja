@@ -10,6 +10,7 @@ My interests include Machine Learning, MLOps, and AI infrastructure.
 - 💬 [FocusFlow](https://github.com/vidhit-dureja/FocusFlow)
 
 ### ⚙️ Tech Stack
-Python • R • Swift • Core ML • PyTorch • scikit-learn • SQL • Docker • Git
+### ⚙️ Tech Stack  
+Python • R • Swift • Core ML • PyTorch • TensorFlow • scikit-learn • LangChain • Pandas • NumPy • SQL • FastAPI • Docker • Git • GitHub Actions • AWS
 
 📫 Reach me: [LinkedIn](https://linkedin.com/in/vidhitdureja) | [Email](mailto:vidhit@illinois.edu)
