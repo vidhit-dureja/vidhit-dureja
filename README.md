@@ -9,7 +9,6 @@ My interests include Machine Learning, MLOps, and AI infrastructure.
 - 📱 [CallFilterPro](https://github.com/vidhit-dureja/CallFilterPro)
 - 💬 [FocusFlow](https://github.com/vidhit-dureja/FocusFlow)
 
-### ⚙️ Tech Stack
 ### ⚙️ Tech Stack  
 Python • R • Swift • Core ML • PyTorch • TensorFlow • scikit-learn • LangChain • Pandas • NumPy • SQL • FastAPI • Docker • Git • GitHub Actions • AWS
 
