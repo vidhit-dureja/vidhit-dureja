@@ -5,7 +5,7 @@ I love building applied AI systems — from predictive models in Python to intel
 My interests include Machine Learning, MLOps, and AI infrastructure.
 
 ### 🔭 Featured Projects
-- 🧠 [Stock Sentiment Predictor](https://github.com/vidhit-dureja/Stock-Sentiment-Predictor)
+- 🤖 [PDF Agent Summarizer](https://github.com/vidhit-dureja/pdf-agent-summarizer)
 - 📱 [CallFilterPro](https://github.com/vidhit-dureja/CallFilterPro)
 - 💬 [FocusFlow](https://github.com/vidhit-dureja/FocusFlow)
 
