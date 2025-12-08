@@ -1,5 +1,5 @@
 # Hi, I'm Vidhit 👋  
-🎓 Statistics, CS, DS @ UIUC | 💻 AI Engineer, ML Engineer, Data Scientist in the making  
+🎓 Statistics, CS, DS @ UIUC | 💻 AI Engineer, Agentic AI Engineer, ML Engineer in the making  
 
 I love building applied AI systems — from predictive models in Python to intelligent iOS apps using Core ML.  
 My interests include Machine Learning, MLOps, and AI infrastructure.
