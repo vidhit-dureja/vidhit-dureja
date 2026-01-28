@@ -1,5 +1,5 @@
 # Hi, I'm Vidhit 👋  
-🎓 Statistics, CS, DS @ UIUC | 💻 AI Engineer, Agentic AI Engineer, ML Engineer in the making  
+🎓 Statistics, CS, DS @ UIUC | 💻 AI Engineer + Data Scientist in the Making!
 
 I love building applied AI systems — from predictive models in Python to intelligent iOS apps using Core ML.  
 My interests include Machine Learning, MLOps, and AI infrastructure.
@@ -10,6 +10,4 @@ My interests include Machine Learning, MLOps, and AI infrastructure.
 - 💬 [FocusFlow](https://github.com/vidhit-dureja/FocusFlow)
 
 ### ⚙️ Tech Stack  
-Python • R • Swift • Core ML • PyTorch • TensorFlow • scikit-learn • LangChain • Pandas • NumPy • SQL • FastAPI • Docker • Git • GitHub Actions • AWS
-
-📫 Reach me: [LinkedIn](https://linkedin.com/in/vidhitdureja) | [Email](mailto:vidhit@illinois.edu)
+Python • R  • Pytorch • scikit-learn  • Pandas • NumPy • SQL • FastAPI  • Git • GitHub • AWS * Analytics * RAG * 
