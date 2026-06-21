@@ -6,8 +6,6 @@ My interests include Machine Learning, MLOps, and AI infrastructure.
 
 ### 🔭 Featured Projects
 - 🤖 [PDF Agent Summarizer](https://github.com/vidhit-dureja/pdf-agent-summarizer)
-- 📱 [CallFilterPro](https://github.com/vidhit-dureja/CallFilterPro)
-- 💬 [FocusFlow](https://github.com/vidhit-dureja/FocusFlow)
-
+- 🔍 [RAG Project](https://github.com/vidhit-dureja/RAG-Project)
 ### ⚙️ Tech Stack  
 Python • R  • Pytorch • scikit-learn  • Pandas • NumPy • SQL • FastAPI  • Git • GitHub • AWS * Analytics * RAG * 
